@@ -1,2 +1,0 @@
-# techstarz
-Technology support site
